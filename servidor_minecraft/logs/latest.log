@@ -80,3 +80,13 @@
 [18:30:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [18:30:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: thonny611[/127.191.165.75:42223] logged in with entity id 1922 at (-178.5, 64.0, 541.5)
 [18:30:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thonny611 joined the game
+[18:31:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: thonny611 lost connection: Disconnected
+[18:31:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thonny611 left the game
+[18:31:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:31:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:31:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:31:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[18:31:58] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:31:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:31:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:31:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
